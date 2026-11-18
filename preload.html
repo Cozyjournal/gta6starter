@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How to Preload GTA 6 on PS5 & Xbox — 212 GB Download Guide — GTA 6 Starter</title>
+<meta name="description" content="GTA 6 preload is live since 10 November 2026 and needs up to 212 GB. Step-by-step preload for PS5 and Xbox Series X|S, storage tips, and a download-time calculator.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site"><div class="wrap">
+<a class="logo" href="index.html">GTA 6 <span>STARTER</span></a>
+<nav class="main">
+<a href="release-date.html">Release Date</a><a href="price.html">Price &amp; Editions</a><a href="preload.html" class="active">Preload</a><a href="pc-release-date.html">PC</a><a href="characters.html">Characters</a><a href="missions.html">Missions</a><a href="map.html">Map</a><a href="about.html">About</a>
+</nav></div></header>
+<main><div class="wrap">
+<h1 class="page">How to preload GTA 6</h1>
+<div class="answer"><strong>Preload opened on 10 November 2026.</strong> If you pre-ordered digitally, you can download GTA 6 now — up to <strong>212 GB</strong> — so it unlocks the moment your region hits midnight on 19 November. <span class="badge confirmed">Confirmed</span></div>
+
+<h2>Launch-night checklist</h2>
+<ul class="checklist">
+<li><strong>Console ready</strong> — a PlayStation 5 or Xbox Series X|S. There is no PC, PS4 or Xbox One version at launch.</li>
+<li><strong>Storage cleared</strong> — free up to 212 GB (steps below).</li>
+<li><strong>Copy secured</strong> — pre-ordered, or a launch-day plan. Boxed copies are code-in-box and still need the full download.</li>
+<li><strong>Download started early</strong> — on a slow connection the preload can take a full day. Use the calculator below.</li>
+</ul>
+
+<h2>Preload on PS5</h2>
+<ol>
+<li>Open the PlayStation Store and find your GTA 6 pre-order (or open it from your Library).</li>
+<li>Select <strong>Download</strong>. Preload opened at local midnight on 10 November.</li>
+<li>Keep the console in rest mode with downloads enabled so it finishes in the background.</li>
+</ol>
+
+<h2>Preload on Xbox Series X|S</h2>
+<ol>
+<li>Open the Microsoft Store or the Xbox app and find your GTA 6 pre-order.</li>
+<li>Select <strong>Pre-install</strong>. Xbox preload opened at 00:00 GMT on 10 November.</li>
+<li>You can also start it remotely from the Xbox mobile app if the game is on your wishlist/order.</li>
+</ol>
+
+<h2>How to free 212 GB</h2>
+<ul>
+<li>Delete games you have finished — you can always re-download them later.</li>
+<li>Move PS4/Xbox One games to an external USB drive (they play from there; PS5/Xbox Series titles must stay on internal or expansion storage).</li>
+<li>Clear captured screenshots and video clips you no longer need.</li>
+<li>Check the real free space in Settings → Storage before you start, not after the download fails.</li>
+</ul>
+
+<h2>How long will your download take?</h2>
+<p>Enter your internet speed to estimate the full 212 GB preload:</p>
+<p><input type="number" id="speed" placeholder="e.g. 50" min="1"> Mbps <button class="btn" id="calc" type="button">Calculate</button></p>
+<p id="result" class="answer" style="display:none"></p>
+
+<div class="src">Sources: Rockstar Games Newswire, "Grand Theft Auto VI Pre-Load Begins on November 10" (preload date and 212 GB size). Checked 18 November 2026.</div>
+</div></main>
+<footer class="site"><div class="wrap">
+<p>GTA 6 Starter is an unofficial fan site, not affiliated with Rockstar Games or Take-Two Interactive. Grand Theft Auto and GTA VI are trademarks of Take-Two Interactive Software.</p>
+<p><a href="index.html">Home</a> · <a href="about.html">About &amp; editorial policy</a></p>
+</div></footer>
+<script>
+document.getElementById('calc').addEventListener('click',function(){var v=parseFloat(document.getElementById('speed').value);var r=document.getElementById('result');if(!v||v<=0){r.style.display='block';r.textContent='Please enter your speed in Mbps.';return;}var bits=212*8*1000;var sec=bits/v;var h=Math.floor(sec/3600),m=Math.round(sec%3600/60);r.style.display='block';r.textContent='At '+v+' Mbps, 212 GB takes about '+h+' hours '+m+' minutes of full-speed downloading. Start well before midnight on 19 November.';});
+</script>
+</body>
+</html>
