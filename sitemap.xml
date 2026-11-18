@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://gta6starter.com/</loc><lastmod>2026-11-18</lastmod></url>
-<url><loc>https://gta6starter.com/release-date.html</loc><lastmod>2026-11-18</lastmod></url>
-<url><loc>https://gta6starter.com/price.html</loc><lastmod>2026-11-18</lastmod></url>
-<url><loc>https://gta6starter.com/preload.html</loc><lastmod>2026-11-18</lastmod></url>
-<url><loc>https://gta6starter.com/pc-release-date.html</loc><lastmod>2026-11-18</lastmod></url>
-<url><loc>https://gta6starter.com/characters.html</loc><lastmod>2026-11-18</lastmod></url>
-<url><loc>https://gta6starter.com/missions.html</loc><lastmod>2026-11-18</lastmod></url>
-<url><loc>https://gta6starter.com/map.html</loc><lastmod>2026-11-18</lastmod></url>
-<url><loc>https://gta6starter.com/about.html</loc><lastmod>2026-11-18</lastmod></url>
+<url><loc>https://gta6starter.com/</loc><lastmod>2026-11-18</lastmod><priority>1.0</priority></url>
+<url><loc>https://gta6starter.com/release-date.html</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://gta6starter.com/price.html</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://gta6starter.com/preload.html</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://gta6starter.com/pc-release-date.html</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://gta6starter.com/characters.html</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://gta6starter.com/missions.html</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://gta6starter.com/map.html</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://gta6starter.com/about.html</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://gta6starter.com/preorder-bonus.html</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://gta6starter.com/ultimate-edition.html</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://gta6starter.com/ps5-vs-xbox.html</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://gta6starter.com/online.html</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://gta6starter.com/launch-checklist.html</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://gta6starter.com/how-long.html</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
 </urlset>
