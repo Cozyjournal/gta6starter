@@ -72,3 +72,12 @@ footer.site a{color:var(--muted)}
 .shot{display:block;width:100%;height:auto;border-radius:var(--radius);border:1px solid var(--line);box-shadow:0 12px 34px rgba(139,92,246,.28),0 0 22px rgba(255,46,136,.10);margin:20px 0}
 @media (max-width:640px){.hero h1{font-size:1.65rem}h1.page{font-size:1.5rem}body{font-size:16px}.hero{padding:28px 0 20px}.hero p.lead{margin-bottom:12px}.kicker{margin-bottom:10px;padding:3px 12px}.countdown{margin:12px 0;gap:8px}.countdown .cell{min-width:66px;padding:8px 4px}.countdown .num{font-size:1.45rem}header.site .wrap{padding-top:7px;padding-bottom:7px;gap:8px}.logo{font-size:1.1rem}nav.main a{padding:5px 8px;font-size:.88rem}.btn{padding:11px 16px}main{padding:18px 0 32px}.answer{margin:10px 0}.facts{margin:12px 0}}
 .page-hero{width:100%;height:auto;border-radius:14px;margin:18px 0;display:block}
+
+/* Table of contents (added 2026-11-25) */
+.toc{background:rgba(139,92,246,.08);border:1px solid rgba(139,92,246,.35);border-radius:10px;padding:16px 20px;margin:22px 0}
+.toc-title{font-weight:700;margin:0 0 8px;font-size:1.02rem}
+.toc ul{margin:0;padding-left:20px}
+.toc li{margin:4px 0}
+.toc a{text-decoration:none}
+.toc a:hover{text-decoration:underline}
+h2{scroll-margin-top:90px}
