@@ -81,3 +81,8 @@ footer.site a{color:var(--muted)}
 .toc a{text-decoration:none}
 .toc a:hover{text-decoration:underline}
 h2{scroll-margin-top:90px}
+
+/* Infographic figures (added 2026-11-25) */
+.infographic{margin:22px 0;background:rgba(255,255,255,.03);border:1px solid rgba(139,92,246,.35);border-radius:10px;padding:18px}
+.infographic svg{width:100%;height:auto;display:block}
+.infographic figcaption{font-size:.9rem;opacity:.75;margin-top:10px}
